@@ -1,3 +1,9 @@
 {
-    "produto":[]
+  "produto": [
+    {
+      "id": "9de3",
+      "nome": "",
+      "imagem": ""
+    }
+  ]
 }

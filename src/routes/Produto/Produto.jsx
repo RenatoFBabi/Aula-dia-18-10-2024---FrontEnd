@@ -65,7 +65,7 @@ const Produto = () => {
             name="nome"
             id="nome"
             value={produto.nome}
-            onChange={{handleChange}}
+            onChange={handleChange}
           />
         </p>
 
